@@ -1,4 +1,9 @@
-## 关于Hybrid浅谈 ##
+---
+layout: post
+title:  "关于Hybrid浅谈"
+date:   2016-11-16 13:54:56 +0800
+categories: jekyll update
+---
 
 ### 前言 ###
 现在使用**HTML5**开发app好像慢慢成为了一种趋势，

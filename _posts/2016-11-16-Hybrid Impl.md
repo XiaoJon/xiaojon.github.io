@@ -1,4 +1,9 @@
-## Hybrid实现
+---
+layout: post
+title:  "Hybrid实现"
+date:   2016-11-16 13:54:56 +0800
+categories: jekyll update
+---
 
 > **前言**
 
